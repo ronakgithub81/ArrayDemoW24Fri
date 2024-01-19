@@ -4,7 +4,6 @@ package arraydemow24fri;
 /**
  * This is to show modification
  * @author Ronak
- * this is to show revert commit
  */
 public class Student {
     private int sID;
